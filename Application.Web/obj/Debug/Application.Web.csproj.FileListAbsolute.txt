@@ -44,6 +44,6 @@ c:\users\franks\documents\visual studio 2012\Projects\Application\Application.We
 c:\users\franks\documents\visual studio 2012\Projects\Application\Application.Web\bin\DotNetOpenAuth.OAuth.xml
 c:\users\franks\documents\visual studio 2012\Projects\Application\Application.Web\bin\DotNetOpenAuth.OpenId.xml
 c:\users\franks\documents\visual studio 2012\Projects\Application\Application.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
-c:\users\franks\documents\visual studio 2012\Projects\Application\Application.Web\obj\Debug\Application.Web.csprojResolveAssemblyReference.cache
 c:\users\franks\documents\visual studio 2012\Projects\Application\Application.Web\obj\Debug\Application.Web.dll
 c:\users\franks\documents\visual studio 2012\Projects\Application\Application.Web\obj\Debug\Application.Web.pdb
+C:\Users\franks\documents\visual studio 2012\Projects\Application\Application.Web\obj\Debug\Application.Web.csprojResolveAssemblyReference.cache
